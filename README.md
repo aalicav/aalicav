@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/aalicav)
 [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalicav)
-[![Behance](https://img.shields.io/badge/-Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aalicav)
 
 ## Tecnologias e Ferramentas
 
