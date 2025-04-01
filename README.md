@@ -1,6 +1,6 @@
 # Eai! 👋
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Bem-vindo+ao+meu+perfil+no+GitHub!)
+![Banner](https://github.com/aalicav/aalicav/blob/main/Banner.png)
 
 ## Sobre mim
 
