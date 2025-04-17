@@ -1,7 +1,5 @@
 # Eai! 👋
 
-![Banner](https://github.com/aalicav/aalicav/blob/main/Banner.png)
-
 ## Sobre mim
 
 - 🎓 **Formação**: Bacherelado em Eng de Software
